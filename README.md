@@ -1,5 +1,6 @@
 # vue-weather
-
+-This is a weather app made with a weather map API that displays the current weather data. 
+This uses JS Fetch API along with Vue JS Methods and conditionals.
 ## Project setup
 ```
 yarn install

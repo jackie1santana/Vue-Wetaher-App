@@ -5,9 +5,10 @@
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and hot-reloads for development and start the server run this command
 ```
 yarn serve
+http://localhost:8080/
 ```
 
 ### Compiles and minifies for production
